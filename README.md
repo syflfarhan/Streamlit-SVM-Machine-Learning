@@ -4,6 +4,4 @@
 
 ### Menjalankan Streamlite
 
-- streamlit run Dashboard.py
-
-python -m streamlit run Dashboard.py
+- python -m streamlit run Dashboard.py
